@@ -53,7 +53,7 @@ import { defineComponent } from "vue";
 import { informationCircleOutline } from "ionicons/icons";
 import { createAnimation } from "@ionic/vue";
 
-const INITIAL_TIME = 5
+const INITIAL_TIME = 60
 
 export default defineComponent({
   name: 'Home',
